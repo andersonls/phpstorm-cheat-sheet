@@ -1,0 +1,7 @@
+@media print {
+    @page {size: A4 landscape; }
+    
+    * {
+        font-size: x-small;
+    }
+}
